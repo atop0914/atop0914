@@ -24,23 +24,36 @@
 ---
 
 ```go
+/* User Profile Context */
 type Developer struct {
-    Name     = "atop0914"
-    Role     = "Full-Stack Developer"
-    Stack    = ["Go", "Python", "AI/ML", "Microservices"]
-    Status   = "Building something cool... 🚧"
-    Location = "China 🇨🇳"
+    Name     string    // "atop0914"
+    Role     string    // "Full-Stack Developer"
+    Stack    []string  // {"Go", "Python", "AI/ML", "Microservices"}
+    Status   string    // "Building something cool... 🚧"
+    Location string    // "China 🇨🇳"
 }
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atop0914&theme=tokyonight&hide_border=true" height="180"/>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="atop0914's GitHub Stats" height="175" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atop0914&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=atop0914&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+</p>
 
 ---
 
