@@ -8,7 +8,6 @@
 [![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-7AA2F7?style=flat-square&logo=Visual-Studio-Code&logoColor=white)]()
 [![Motto](https://img.shields.io/badge/Motto-Talk_is_cheap_show_me_the_code-39D353?style=flat-square)]()
 
----
 
 ## 🛠️ Tech Stack
 
@@ -60,8 +59,6 @@
 </picture>
 
 
----
-
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   <table width="100%">
@@ -72,8 +69,6 @@
     </tr>
   </table>
 </div>
-
----
 
 
 ## 📬 Connect With Me
@@ -88,8 +83,6 @@
 </div>
 
 ---
-
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=atop0914&color=blueviolet&style=for-the-badge"/>
