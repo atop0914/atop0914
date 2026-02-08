@@ -13,20 +13,7 @@
 
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
-
-  <table align="center">
-    <tr valign="center">
-      <td align="center">
-        <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atop0914&theme=tokyonight&hide_border=true" height="170" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=atop0914&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-
+  <img src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-metrics.svg" width="100%">
 </div>
 
 ---
@@ -74,15 +61,6 @@
 
 </div>
 
----
-
-## 🏆 Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atop0914&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
----
 
 ## 📦 Featured Projects
 
