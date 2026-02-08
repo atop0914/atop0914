@@ -1,27 +1,18 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║     ██╗██╗   ██╗ ██████╗ ██████╗ ███╗   ██╗ ██████╗ ██╗   ██╗ ║
-║     ██║██║   ██║██╔════╝ ██╔══██╗████╗  ██║██╔════╝ ╚██╗ ██╔╝ ║
-║     ██║██║   ██║██║  ███╗██████╔╝██╔██╗ ██║██║  ███╗ ╚████╔╝  ║
-║     ██║██║   ██║██║   ██║██╔══██╗██║╚██╗██║██║   ██║  ╚██╔╝   ║
-║     ██║╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║╚██████╔╝  ██║    ║
-║     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Go+Backend+Expert;AI+Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Go+Backend+Expert;AI+Enthusiast)" alt="Typing SVG" />
 
 # 👋 Hi, I'm **atop0914**
 
-### 🚀 Full-Stack Developer | 🐍 Go Backend | 🤖 AI Enthusiast
+<p>
+  <img src="[https://img.shields.io/badge/-China-EE1C25?style=flat-square&logo=China&logoColor=white](https://img.shields.io/badge/-China-EE1C25?style=flat-square&logo=China&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Status-Building_Cool_Stuff-7AA2F7?style=flat-square&logo=Visual-Studio-Code&logoColor=white](https://img.shields.io/badge/Status-Building_Cool_Stuff-7AA2F7?style=flat-square&logo=Visual-Studio-Code&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Motto-Talk_is_cheap_show_me_the_code-39D353?style=flat-square](https://img.shields.io/badge/Motto-Talk_is_cheap_show_me_the_code-39D353?style=flat-square)" />
+</p>
 
-[![China](https://img.shields.io/badge/-China-FF0000?style=flat-square&logo=china&logoColor=white)](https://github.com/atop0914)
-[![Status](https://img.shields.io/badge/-Building_Something_Cool-FF6B6B?style=flat-square)]()
-[![Motto](https://img.shields.io/badge/-Talk_is_cheap,_show_me_the_code-00FF00?style=flat-square)]()
-
----
+<table align="center">
+<tr>
+<td>
 
 ```go
 /* User Profile Context */
@@ -32,9 +23,9 @@ type Developer struct {
     Status   string    // "Building something cool... 🚧"
     Location string    // "China 🇨🇳"
 }
-```
+</td> </tr> </table>
 
----
+</div>
 
 ## 📊 GitHub Statistics
 
