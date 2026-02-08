@@ -8,29 +8,26 @@
 [![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-7AA2F7?style=flat-square&logo=Visual-Studio-Code&logoColor=white)]()
 [![Motto](https://img.shields.io/badge/Motto-Talk_is_cheap_show_me_the_code-39D353?style=flat-square)]()
 
-```go
-/* User Profile Context */
-type Developer struct {
-    Name     string    // "atop0914"
-    Role     string    // "Full-Stack Developer"
-    Stack    []string  // {"Go", "Python", "AI/ML", "Microservices"}
-    Status   string    // "Building something cool... 🚧"
-    Location string    // "China 🇨🇳"
-}
-```
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atop0914&theme=tokyonight&hide_border=true" height="175"/>
-</div>
+  <h2>📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atop0914&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
-</p>
+  <table align="center">
+    <tr valign="center">
+      <td align="center">
+        <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atop0914&theme=tokyonight&hide_border=true" height="170" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=atop0914&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+
+</div>
 
 ---
 
