@@ -16,14 +16,22 @@ type Developer struct {
 }
 ```
 
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Go+Developer&fontSize=80)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+</div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/atop0914)
+---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atop0914&theme=tokyo-night&hide_border=true" alt="contribution graph"/>
 </div>
 
 ---
