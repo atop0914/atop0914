@@ -8,38 +8,6 @@
 [![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-7AA2F7?style=flat-square&logo=Visual-Studio-Code&logoColor=white)]()
 [![Motto](https://img.shields.io/badge/Motto-Talk_is_cheap_show_me_the_code-39D353?style=flat-square)]()
 
-
----
-
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  <table width="800">
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-metrics.svg" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🐍 GitHub Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atop0914/atop0914/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atop0914/atop0914/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atop0914&theme=tokyo-night&hide_border=true"/>
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -84,6 +52,24 @@
 
 ---
 
+## 🐍 GitHub Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atop0914/atop0914/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atop0914/atop0914/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atop0914&theme=tokyo-night&hide_border=true"/>
+</div>
+
+
+
 ## 📬 Connect With Me
 
 <div align="center">
@@ -93,6 +79,21 @@
   <a href="https://t.me/atop0914">
     <img src="https://img.shields.io/badge/Telegram-@atop0914-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+</div>
+
+---
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+  <table width="800">
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-metrics.svg" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
