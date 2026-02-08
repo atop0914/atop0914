@@ -62,12 +62,21 @@
 
 ---
 
-## 📈 Contribution Activity
+
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atop0914&theme=tokyo-night&hide_border=true"/>
+  <h2>📊 GitHub Statistics</h2>
+  <table width="100%">
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-metrics.svg" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
 
 
 ## 📬 Connect With Me
@@ -83,20 +92,7 @@
 
 ---
 
----
 
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  <table width="800">
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-metrics.svg" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=atop0914&color=blueviolet&style=for-the-badge"/>
