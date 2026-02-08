@@ -24,8 +24,7 @@ type Developer struct {
     Location string    // "China 🇨🇳"
 }
 </td> </tr> </table>
-
-</div>
+```
 
 ## 📊 GitHub Statistics
 
