@@ -22,9 +22,9 @@ type Developer struct {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
 
 ---
 
