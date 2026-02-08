@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Go+Backend+Expert;AI+Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Go+Backend+Expert;AI+Enthusiast)" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Go+Backend+Expert;AI+Enthusiast)](https://readme-typing-svg.demolab.com)
 
 # 👋 Hi, I'm **atop0914**
 
-<p>
-  <img src="[https://img.shields.io/badge/-China-EE1C25?style=flat-square&logo=China&logoColor=white](https://img.shields.io/badge/-China-EE1C25?style=flat-square&logo=China&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Status-Building_Cool_Stuff-7AA2F7?style=flat-square&logo=Visual-Studio-Code&logoColor=white](https://img.shields.io/badge/Status-Building_Cool_Stuff-7AA2F7?style=flat-square&logo=Visual-Studio-Code&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Motto-Talk_is_cheap_show_me_the_code-39D353?style=flat-square](https://img.shields.io/badge/Motto-Talk_is_cheap_show_me_the_code-39D353?style=flat-square)" />
-</p>
-
-<table align="center">
-<tr>
-<td>
+[![China](https://img.shields.io/badge/-China-EE1C25?style=flat-square&logo=China&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-7AA2F7?style=flat-square&logo=Visual-Studio-Code&logoColor=white)]()
+[![Motto](https://img.shields.io/badge/Motto-Talk_is_cheap_show_me_the_code-39D353?style=flat-square)]()
 
 ```go
 /* User Profile Context */
@@ -23,26 +17,19 @@ type Developer struct {
     Status   string    // "Building something cool... 🚧"
     Location string    // "China 🇨🇳"
 }
-</td> </tr> </table>
 ```
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="atop0914's GitHub Stats" height="175" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atop0914&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=atop0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atop0914&theme=tokyonight&hide_border=true" height="175"/>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=atop0914&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atop0914&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -60,7 +47,7 @@ type Developer struct {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atop0914&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atop0914&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
@@ -95,7 +82,7 @@ type Developer struct {
 ## 🏆 Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atop0914&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atop0914&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
@@ -119,26 +106,22 @@ type Developer struct {
 ## 📬 Connect With Me
 
 <div align="center">
-
-<a href="mailto:1390885469@qq.com">
-  <img src="https://img.shields.io/badge/Email-1390885469@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://t.me/atop0914">
-  <img src="https://img.shields.io/badge/Telegram-@atop0914-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
+  <a href="mailto:1390885469@qq.com">
+    <img src="https://img.shields.io/badge/Email-1390885469@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/atop0914">
+    <img src="https://img.shields.io/badge/Telegram-@atop0914-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=atop0914&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/atop0914?style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/stars/atop0914?style=flat-square&color=blueviolet"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=atop0914&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/atop0914?style=for-the-badge&color=blueviolet" />
-<img src="https://img.shields.io/github/stars/atop0914?style=flat-square&color=blueviolet" />
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Made+with+❤+by+atop0914&fontSize=14"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Made+with+❤+by+atop0914&fontSize=14"/>
 </div>
