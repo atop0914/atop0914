@@ -1,22 +1,21 @@
-name: generate animation
+name: Generate Snake and Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天自动运行一次
-  workflow_dispatch:     # 保持手动触发功能
+    - cron: "0 0 * * *" # 每天北京时间上午 8 点运行
+  workflow_dispatch:     # 支持手动触发
   push:
     branches:
-    - main              # 每次你改动代码时也自动更新
+      - main
 
 jobs:
-  generate:
+  # 任务 1：生成贪吃蛇动画
+  snake:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate-snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,10 +23,34 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push-to-output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # 任务 2：生成统计图 (Metrics)
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 注意：需要在 Secrets 中配置 METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: atop0914
+          template: classic
+          base: header, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          # 这一行决定生成的图片文件名，并存放在 output 分支
+          filename: github-metrics.svg
+          config_timezone: Asia/Shanghai
+          # 自动推送到 output 分支
+          output_action: commit
+          committer_branch: output
