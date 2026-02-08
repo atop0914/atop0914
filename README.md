@@ -13,7 +13,13 @@
 
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
-  <img src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-metrics.svg" width="100%">
+  <table width="800">
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-metrics.svg" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
