@@ -42,7 +42,7 @@
 | 🔥 | Project | Description | ⭐ |
 |:---|:---|:---|:---|
 | 🚧 | [PingMe](https://github.com/atop0914/PingMe) | Go IM System (WebSocket/Kafka/Redis/MySQL) | - |
-| 🏆 | [grpc-hello](https://github.com/atop0914/grpc-hello) | gRPC + Gateway Demo | ⭐ |
+| 🏆 | [taskflow](https://github.com/atop0914/taskflow) | gRPC Task Service | ⭐ |
 | 📝 | [daily-leetcode](https://github.com/atop0914/daily-leetcode) | Leetcode Solutions in Go | ⭐ |
 | 🔗 | [url-shortener](https://github.com/atop0914/url-shortener) | URL Shortener Service | - |
 | 🌤️ | [weather_bot](https://github.com/atop0914/weather_bot) | Weather Notification Bot | - |
@@ -93,3 +93,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Made+with+❤+by+atop0914&fontSize=14"/>
 </div>
+
