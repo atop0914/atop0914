@@ -45,7 +45,7 @@
 | 🏆 | [taskflow](https://github.com/atop0914/taskflow) | gRPC Task Service | ⭐ |
 | 📝 | [daily-leetcode](https://github.com/atop0914/daily-leetcode) | Leetcode Solutions in Go | ⭐ |
 | 🔗 | [url-shortener](https://github.com/atop0914/url-shortener) | URL Shortener Service | - |
-| 🌤️ | [weather_bot](https://github.com/atop0914/weather_bot) | Weather Notification Bot | - |
+| 🌤️ | [skypulse](https://github.com/atop0914/skypulse) | Weather Notification Bot | - |
 
 </div>
 
