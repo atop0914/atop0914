@@ -42,7 +42,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/atop0914/goshield-bootcamp">🛡️ GoShield</a></h3>
+<h3><a href="https://github.com/atop0914/goshield">🛡️ GoShield</a></h3>
 <p><b>Unified Resilience Toolkit for Go</b></p>
 <p>Composable resilience decorators — Circuit Breaker, Retry, Rate Limiter, Bulkhead, Timeout, Fallback. Inspired by Resilience4j & Polly, built for Go.</p>
 <p>
@@ -56,7 +56,7 @@
 </p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/atop0914/containerdb-bootcamp">🐳 ContainerDB</a></h3>
+<h3><a href="https://github.com/atop0914/containerdb">🐳 ContainerDB</a></h3>
 <p><b>Containerized Database Toolkit for Go</b></p>
 <p>Spin up real MySQL/PostgreSQL/SQLite in containers with one function call. Zero Docker Compose, perfect for integration tests and local dev.</p>
 <p>
@@ -72,7 +72,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/atop0914/gotestkit-bootcamp">🧪 GoTestKit</a></h3>
+<h3><a href="https://github.com/atop0914/gotestkit">🧪 GoTestKit</a></h3>
 <p><b>Go Testing Toolkit</b></p>
 <p>Comprehensive testing utilities — fluent assertions, mocking framework, fake data generators, HTTP test helpers, and golden file support.</p>
 <p>
