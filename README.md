@@ -25,7 +25,7 @@ I write Go for a living and ship side projects on weekends. In 2026 my focus is:
 <tr>
 <td width="33%" valign="top">
 
-#### [gollm](https://github.com/atop0914/gollm)
+#### [llmtrace](https://github.com/atop0914/llmtrace)
 OpenTelemetry-native LLM Observability SDK — automatic tracing, token tracking, cost calculation for OpenAI, Anthropic, Gemini.
 
 <sub>`Go 1.22+` · `OpenTelemetry` · `Multi-provider`</sub>
