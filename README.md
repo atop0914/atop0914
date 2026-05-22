@@ -37,17 +37,66 @@
 
 ## 📦 Featured Projects
 
-<div align="center">
+### 🛡️ Go Ecosystem Libraries
 
-| 🔥 | Project | Description | ⭐ |
-|:---|:---|:---|:---|
-| 🚧 | [PingMe](https://github.com/atop0914/PingMe) | Go IM System (WebSocket/Kafka/Redis/MySQL) | - |
-| 🏆 | [taskflow](https://github.com/atop0914/taskflow) | gRPC Task Service | ⭐ |
-| 📝 | [daily-leetcode](https://github.com/atop0914/daily-leetcode) | Leetcode Solutions in Go | ⭐ |
-| 🔗 | [url-shortener](https://github.com/atop0914/url-shortener) | URL Shortener Service | - |
-| 🌤️ | [skypulse](https://github.com/atop0914/skypulse) | Weather Notification Bot | - |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/atop0914/goshield-bootcamp">🛡️ GoShield</a></h3>
+<p><b>Unified Resilience Toolkit for Go</b></p>
+<p>Composable resilience decorators — Circuit Breaker, Retry, Rate Limiter, Bulkhead, Timeout, Fallback. Inspired by Resilience4j & Polly, built for Go.</p>
+<p>
+<img src="https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zero--Dependencies-39D353?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTTP--Middleware-7AA2F7?style=flat-square"/>
+</p>
+<p>
+<code>CircuitBreaker</code> <code>Retry</code> <code>RateLimiter</code> <code>Bulkhead</code> <code>Timeout</code> <code>Fallback</code>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/atop0914/containerdb-bootcamp">🐳 ContainerDB</a></h3>
+<p><b>Containerized Database Toolkit for Go</b></p>
+<p>Spin up real MySQL/PostgreSQL/SQLite in containers with one function call. Zero Docker Compose, perfect for integration tests and local dev.</p>
+<p>
+<img src="https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+<p>
+<code>One-line Setup</code> <code>Auto Cleanup</code> <code>CLI (start/stop/status)</code>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/atop0914/gotestkit-bootcamp">🧪 GoTestKit</a></h3>
+<p><b>Go Testing Toolkit</b></p>
+<p>Comprehensive testing utilities — fluent assertions, mocking framework, fake data generators, HTTP test helpers, and golden file support.</p>
+<p>
+<img src="https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zero--Dependencies-39D353?style=flat-square"/>
+</p>
+<p>
+<code>assert</code> <code>mock</code> <code>fake</code> <code>httptest</code> <code>suite</code>
+</p>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
-</div>
+### 💼 Other Projects
+
+| 🔥 | Project | Description |
+|:---|:---|:---|
+| 🚧 | [PingMe](https://github.com/atop0914/PingMe) | Go IM System (WebSocket / Kafka / Redis / MySQL) |
+| 🏆 | [taskflow](https://github.com/atop0914/taskflow) | gRPC Task Service |
+| 📝 | [daily-leetcode](https://github.com/atop0914/daily-leetcode) | LeetCode Solutions in Go |
+| 🔗 | [url-shortener](https://github.com/atop0914/url-shortener) | URL Shortener Service |
+| 🌤️ | [skypulse](https://github.com/atop0914/skypulse) | Weather Notification Bot |
 
 
 ## 🐍 GitHub Snake
