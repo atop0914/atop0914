@@ -88,17 +88,6 @@
 </tr>
 </table>
 
-### 💼 Other Projects
-
-| 🔥 | Project | Description |
-|:---|:---|:---|
-| 🚧 | [PingMe](https://github.com/atop0914/PingMe) | Go IM System (WebSocket / Kafka / Redis / MySQL) |
-| 🏆 | [taskflow](https://github.com/atop0914/taskflow) | gRPC Task Service |
-| 📝 | [daily-leetcode](https://github.com/atop0914/daily-leetcode) | LeetCode Solutions in Go |
-| 🔗 | [url-shortener](https://github.com/atop0914/url-shortener) | URL Shortener Service |
-| 🌤️ | [skypulse](https://github.com/atop0914/skypulse) | Weather Notification Bot |
-
-
 ## 🐍 GitHub Snake
 
 <picture>
