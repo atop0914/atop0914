@@ -25,6 +25,14 @@ I write Go for a living and ship side projects on weekends. In 2026 my focus is:
 <tr>
 <td width="33%" valign="top">
 
+#### [gollm](https://github.com/atop0914/gollm)
+OpenTelemetry-native LLM Observability SDK — automatic tracing, token tracking, cost calculation for OpenAI, Anthropic, Gemini.
+
+<sub>`Go 1.22+` · `OpenTelemetry` · `Multi-provider`</sub>
+
+</td>
+<td width="33%" valign="top">
+
 #### [goshield](https://github.com/atop0914/goshield)
 Unified resilience toolkit for Go — Circuit Breaker, Retry, Rate Limiter, Bulkhead, Timeout, Fallback. Inspired by Resilience4j & Polly.
 
@@ -39,6 +47,8 @@ Spin up real MySQL / PostgreSQL / SQLite in containers with one function call. B
 <sub>`Go 1.22+` · `Testcontainers` · `CLI`</sub>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 #### [gotestkit](https://github.com/atop0914/gotestkit)
@@ -47,6 +57,8 @@ Comprehensive Go testing utilities — fluent assertions, mocking, fake data, HT
 <sub>`Go 1.22+` · `Zero-deps` · `assert/mock/fake`</sub>
 
 </td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
