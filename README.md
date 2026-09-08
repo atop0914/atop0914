@@ -2,7 +2,7 @@
 
 # atop
 
-**Building Go infrastructure libraries and AI agents from Shanghai.**
+**Building Go infrastructure and AI agent platforms from Shanghai.**
 
 *Learning relentlessly, building patiently.*
 
@@ -12,10 +12,10 @@
 
 ## About
 
-I write Go for a living and ship side projects on weekends. In 2026 my focus is:
+I write Go for a living and ship side projects on weekends. My focus:
 
-- Small, composable **Go libraries** that each solve one problem well — resilience, test infra, containerized databases.
-- **LLM agents** that replace operational toil — MCP servers, Claude Code Skills, AI-driven analysis.
+- **Go infrastructure libraries** — resilience, observability, test tooling, each solving one problem well.
+- **AI agent platforms** — building autonomous agents that replace operational toil.
 
 ## Featured Projects
 
@@ -25,26 +25,26 @@ I write Go for a living and ship side projects on weekends. In 2026 my focus is:
 <tr>
 <td width="33%" valign="top">
 
-#### [gollm](https://github.com/atop0914/gollm)
-OpenTelemetry-native LLM Observability SDK — automatic tracing, token tracking, cost calculation for OpenAI, Anthropic, Gemini.
+#### [llmtrace](https://github.com/atop0914/llmtrace)
+OpenTelemetry-native LLM Observability SDK — automatic tracing, token tracking, cost calculation for OpenAI, Anthropic, Gemini, and more.
 
-<sub>`Go 1.22+` · `OpenTelemetry` · `Multi-provider`</sub>
+<sub>`Go 1.25+` · `OpenTelemetry` · `Multi-provider`</sub>
 
 </td>
 <td width="33%" valign="top">
 
 #### [goshield](https://github.com/atop0914/goshield)
-Unified resilience toolkit for Go — Circuit Breaker, Retry, Rate Limiter, Bulkhead, Timeout, Fallback. Inspired by Resilience4j & Polly.
+Unified resilience toolkit — Circuit Breaker, Retry, Rate Limiter, Bulkhead, Timeout, Fallback. Zero external dependencies.
 
-<sub>`Go 1.22+` · `Zero-deps` · `Prometheus`</sub>
+<sub>`Go 1.25+` · `Zero-deps` · `Prometheus`</sub>
 
 </td>
 <td width="33%" valign="top">
 
 #### [containerdb](https://github.com/atop0914/containerdb)
-Spin up real MySQL / PostgreSQL / SQLite in containers with one function call. Built for integration tests — no docker-compose required.
+Spin up real MySQL / PostgreSQL / SQLite in containers for integration tests. One function call, no docker-compose.
 
-<sub>`Go 1.22+` · `Testcontainers` · `CLI`</sub>
+<sub>`Go 1.25+` · `Testcontainers` · `CLI`</sub>
 
 </td>
 </tr>
@@ -52,34 +52,25 @@ Spin up real MySQL / PostgreSQL / SQLite in containers with one function call. B
 <td width="33%" valign="top">
 
 #### [gotestkit](https://github.com/atop0914/gotestkit)
-Comprehensive Go testing utilities — fluent assertions, mocking, fake data, HTTP helpers, golden files.
+Go testing utilities — fluent assertions, mocking, fake data, HTTP helpers, golden files. Zero dependencies.
 
-<sub>`Go 1.22+` · `Zero-deps` · `assert/mock/fake`</sub>
-
-</td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-### 🤖 AI Agents & Tooling
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [SkyPulse](https://github.com/atop0914/skypulse)
-AI weather bot powered by an agent loop with LLM tool-use. TypeScript end-to-end.
-
-<sub>`TypeScript` · `Agent` · `LLM`</sub>
+<sub>`Go 1.25+` · `Zero-deps` · `assert/mock/fake`</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### [PingMe](https://github.com/atop0914/PingMe)
-Go-based instant messaging system. End-to-end design covering protocol, persistence, and delivery.
+#### [goqueue](https://github.com/atop0914/goqueue)
+Lightweight embedded task queue with pluggable backends (Memory, SQLite, Redis). Built-in retry, delay, priority, dead letter, worker pool.
 
-<sub>`Go` · `IM` · `Distributed`</sub>
+<sub>`Go 1.23+` · `Multi-backend` · `Zero-deps`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### [agentbot](https://github.com/atop0914/agentbot)
+Enterprise AI Agent Platform — autonomous agents running in cloud environments, multi-agent collaboration, workflow templates, management dashboard.
+
+<sub>`Go 1.25+` · `Docker` · `WebSocket`</sub>
 
 </td>
 </tr>
@@ -89,18 +80,10 @@ Go-based instant messaging system. End-to-end design covering protocol, persiste
 
 | Layer | Tools |
 |---|---|
-| **Languages** | Go · Python · TypeScript |
-| **Data** | MySQL · PostgreSQL · Redis · Kafka |
+| **Languages** | Go · Python |
+| **Data** | PostgreSQL · Redis |
 | **Infra** | Docker · Linux · gRPC |
-| **AI** | Claude Code · MCP · Gemini API |
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atop0914/atop0914/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atop0914/atop0914/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atop0914/atop0914/output/github-contribution-grid-snake.svg">
-</picture>
+| **AI** | LLM APIs · Agent Frameworks |
 
 ## Contact
 
