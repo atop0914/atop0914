@@ -73,6 +73,14 @@ Enterprise AI Agent Platform — autonomous agents running in cloud environments
 <sub>`Go 1.25+` · `Docker` · `WebSocket`</sub>
 
 </td>
+<td width="33%" valign="top">
+
+#### [fdscope](https://github.com/atop0914/fdscope)
+Find which resource is leaking file descriptors in a running Linux process — fingerprints, not just counts. Zero dependencies.
+
+<sub>`Go 1.25+` · `Linux /proc` · `Zero-deps`</sub>
+
+</td>
 </tr>
 </table>
 
